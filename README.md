@@ -8,7 +8,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tahmidabir/tahmidabir?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
-<img align="right" alt="Coding" width="300" height="225" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding" width="300" height="225" src="profile.gif">
 </br>
 
 ##   👨 **About Me**
