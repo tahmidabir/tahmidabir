@@ -1,4 +1,4 @@
-# <p align="center">️ **Hi there!! This is Tahmid here** </p>
+# <p align="center">️ **Hi there!! I'm Tahmid Abir** 👋 </p>
 <p align="center">️<small>I love to explore new technologies</small></p>
 
 <p align="center">
@@ -8,24 +8,24 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tahmidabir/tahmidabir?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
-<img align="right" alt="Coding" width="200" height="112" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="300" height="225" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 </br>
 
 ##   👨 **About Me**
 
-- I am a **Hardware Design Engineer** by profession.
-- Learning full stack web development
-- Enthusiast about **Robotics** and *Data Science*
+🚀 I am a **Hardware Design Engineer** by profession.<br/>
+💻 Learning **Full Stack** web development <br/>
+🤖 Enthusiast about **Robotics** and **Data Science**
 
 ---
 
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/tahmidabir">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidabir&show_icons=true&include_all_commits=true&theme=dracula&count_private=true">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidabir&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
 </a>
 <a href="https://github.com/tahmidabir/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tahmidabir&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tahmidabir&layout=compact&theme=tokyonight" />
 </a>
 
 </br>
