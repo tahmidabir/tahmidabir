@@ -8,10 +8,10 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tahmidabir/tahmidabir?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
-<img align="right" alt="Coding" width="300" height="170" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="200" height="112" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </br>
 
-## &nbsp; &nbsp; **About Me**
+##   👨 **About Me**
 
 - I am a **Hardware Design Engineer** by profession.
 - Learning full stack web development
@@ -70,15 +70,20 @@
 
 [//]: # ([website]:www.tahmidabir.me)
 
+
+
+
 ### Connect with me:
+
 [![website](./img/globe-light.svg)](https://tahmidabir.me#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://tahmidabir.me#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tahmidabir/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tahmidabir/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tahmidabir#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tahmidabir#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_tahmid.abir/r#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_tahmid.abir/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_tahmid.abir/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://www.facebook.com/tahmidabir2017/r#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/tahmidabir2017/#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://www.facebook.com/tahmidabir2017#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/tahmidabir2017#gh-dark-mode-only)
+
