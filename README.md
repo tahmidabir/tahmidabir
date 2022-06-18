@@ -88,7 +88,5 @@
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/tahmidabir2017#gh-dark-mode-only)
 
 
-## 🌐 **Snake Eating My Contribution Graph:** ️)
-
-![snake gif](https://github.com/tahmidabir/tahmidabir/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/tahmidabir/tahmidabir/output/github-contribution-grid-snake.svg" />
 
