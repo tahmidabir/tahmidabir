@@ -72,7 +72,7 @@
 
 
 
-# (## 🌐 **Connect with me:** ️)
+## 🌐 **Connect with me:** ️
 
 
 [![website](./img/globe-light.svg)](https://tahmidabir.me#gh-light-mode-only)
@@ -88,7 +88,7 @@
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/tahmidabir2017#gh-dark-mode-only)
 
 
-# (## 🌐 **Snake Eating My Contribution Graph:** ️)
+## 🌐 **Snake Eating My Contribution Graph:** ️)
 
 ![snake gif](https://github.com/tahmidabir/tahmidabir/blob/output/github-contribution-grid-snake.gif)
 
