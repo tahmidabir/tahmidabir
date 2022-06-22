@@ -1,5 +1,5 @@
 # <p align="center">️ **Hi there!! I'm Tahmid Abir** 👋 </p>
-<p align="center">️<small>I love to explore new technologies</small></p>
+<p align="center">️<small>Eat 🍲 Sleep 😴 Develop 💻 Repeat 🔁</small></p>
 
 <p align="center">
 
