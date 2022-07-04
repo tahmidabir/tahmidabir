@@ -38,7 +38,7 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
-![Python](https://img.shields.io/badge/-Python-green?&style=for-the-badge&logo=python&ogoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/-Pycharm-019733?style=for-the-badge&logo=pycharm)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
