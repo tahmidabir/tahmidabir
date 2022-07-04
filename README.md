@@ -13,7 +13,7 @@
 
 ##   👨 **About Me**
 
-🚀 I am a **Hardware Design Engineer** by profession.<br/>
+🚀 A **Hardware Design Engineer** by profession.<br/>
 💻 Learning **Full Stack** web development <br/>
 🤖 Enthusiast about **Robotics** and **Data Science**
 
