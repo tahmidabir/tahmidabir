@@ -28,7 +28,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tahmidabir&layout=compact&theme=bear" />
 </a>
 
-<!-- prefered theme tokyonight-->
+<!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 </br>
 
