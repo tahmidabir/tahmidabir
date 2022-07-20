@@ -22,10 +22,10 @@
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/tahmidabir">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidabir&show_icons=true&include_all_commits=true&theme=merko&count_private=true">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidabir&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
 </a>
 <a href="https://github.com/tahmidabir/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tahmidabir&layout=compact&theme=merko" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tahmidabir&layout=compact&theme=tokyonight" />
 </a>
 
 <!-- prefered theme tokyonight and others can be found at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
